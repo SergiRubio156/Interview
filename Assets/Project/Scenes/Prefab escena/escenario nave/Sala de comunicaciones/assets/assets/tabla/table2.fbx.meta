@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 6d6d8be9b73e49e479dcb477a98fffca
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_albedo
+    second: {fileID: 2800000, guid: 7043c3859c6bc2f4f853af4e53bc0c40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_metallic
+    second: {fileID: 2800000, guid: 8fce664e3f5000a4dae0b60ac824146b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_normal
+    second: {fileID: 2800000, guid: 45e321c3fab6761479a78312dc1311bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_roughness
+    second: {fileID: 2800000, guid: 553a900df365aa045bbf5d7dd86d39a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: context_albedo
+    second: {fileID: 2800000, guid: 060dc34f43fbc3747abb02d198ef0007, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: context_metallic
+    second: {fileID: 2800000, guid: 78a8abc2bfd392345adb071e6ad89343, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: context_normal
+    second: {fileID: 2800000, guid: c78603147b92bfd47824d8b95a7d62be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: context_roughness
+    second: {fileID: 2800000, guid: bc974b7006d2e0048b830c29ba147df9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leg_albedo
+    second: {fileID: 2800000, guid: bef6038ea7a1b854e98bcccfecb65b41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leg_metallic
+    second: {fileID: 2800000, guid: fba9719c897f9a5448621d4d6ba7ad14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leg_normal
+    second: {fileID: 2800000, guid: 76a8fd320eb4e4d4f82c82f972b4dfaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leg_roughness
+    second: {fileID: 2800000, guid: b5275539c16e8f24f8f12a66be95dc99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monitor_albedo
+    second: {fileID: 2800000, guid: 8ccf57a3beb9d4a45a655d8fa72bc512, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monitor_metallic
+    second: {fileID: 2800000, guid: 12b9fbaed9f99e54080dbd2662a8e2ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monitor_normal
+    second: {fileID: 2800000, guid: 05ad6f94fe9dcd249b30ab8406a1a601, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monitor_roughness
+    second: {fileID: 2800000, guid: e15a9a8fdfdc70a4d9a8f51e1993d9d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_BaseColor.1001
+    second: {fileID: 2800000, guid: b39ec9e6aac7c134aa13b825a5a6347a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Emissive.1001
+    second: {fileID: 2800000, guid: cf3a665aa50b5ed44bd2bb5484ae43e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Metallic.1001
+    second: {fileID: 2800000, guid: cb47b580eebd4d548b9fcdd2f027089c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Normal.1001
+    second: {fileID: 2800000, guid: d75b986ef296bb344991db0558d0e429, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Roughness.1001
+    second: {fileID: 2800000, guid: 6f37412372e0f82499cd77a67b3719d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_BaseColor.1001
+    second: {fileID: 2800000, guid: 8d3af4fbd68bd464c863feb5c4c0b569, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Emissive.1001
+    second: {fileID: 2800000, guid: e36a5ac8193aa5446bfa657e7781ce54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Metallic.1001
+    second: {fileID: 2800000, guid: be8902221d4f56d4e82a1af97cd84536, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Normal.1001
+    second: {fileID: 2800000, guid: f7a7b3c475d477c4c94df36446c8ddd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Roughness.1001
+    second: {fileID: 2800000, guid: a67efb2e19afcc141bc722f34cdef2ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_BaseColor.1001
+    second: {fileID: 2800000, guid: 67996b95e9544e746b66121e8e9b967a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Emissive.1001
+    second: {fileID: 2800000, guid: 0b399494723f5ba48bbf1d7de7e49d99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Metallic.1001
+    second: {fileID: 2800000, guid: e86c4f345ab6c1649b16594ac210115e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Normal.1001
+    second: {fileID: 2800000, guid: c923003736f23464e9200bb80b76ca1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Roughness.1001
+    second: {fileID: 2800000, guid: 384b4574afc817446ad9b6e84cb274e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen2_albedo
+    second: {fileID: 2800000, guid: 2366eae0963c71f4c836dd44dfe92134, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen2_metallic
+    second: {fileID: 2800000, guid: d28cb477216fce24f8f20a112312b9af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen2_normal
+    second: {fileID: 2800000, guid: a3cbd2a69b61bae43b7f4e71d756c0d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen2_roughness
+    second: {fileID: 2800000, guid: 42ea00a20cb476d47a6cf3c8c3d48c76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen3_albedo
+    second: {fileID: 2800000, guid: 9c7f73d879d9a0345b41d4b19aaae781, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen3_emissive
+    second: {fileID: 2800000, guid: 02b4e4b21d78c594294f048f4bbdd406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen3_metallic
+    second: {fileID: 2800000, guid: a2d3b1c8c020b3a4695c791a2be548a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen3_normal
+    second: {fileID: 2800000, guid: 5cf2587a91cb6734eb68b17369332ab9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen3_roughness
+    second: {fileID: 2800000, guid: 2d6d7b71218bb4f478a17eb05b07dc62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen_albedo
+    second: {fileID: 2800000, guid: 56736963879b74a488b327f569872bfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen_metallic
+    second: {fileID: 2800000, guid: 6a30fdab0724f7e4cab04b4f3589f920, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen_normal
+    second: {fileID: 2800000, guid: 0a982b202c62b0444aa0513672de0a38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen_roughness
+    second: {fileID: 2800000, guid: 92f2c6a83b04fcd4a87829fc66bfbc81, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

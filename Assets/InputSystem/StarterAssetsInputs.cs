@@ -12,6 +12,7 @@ namespace StarterAssets
 		public Vector2 look;
 		public bool jump;
 		public bool sprint;
+		public bool settings;
 
 		[Header("Movement Settings")]
 		public bool analogMovement;
@@ -19,19 +20,29 @@ namespace StarterAssets
 		[Header("Mouse Cursor Settings")]
 		public bool cursorLocked = true;
 		public bool cursorInputForLook = true;
+		public Vector2 mousePosition;
+
 
 #if ENABLE_INPUT_SYSTEM && STARTER_ASSETS_PACKAGES_CHECKED
 		public void OnMove(InputValue value)
 		{
 			MoveInput(value.Get<Vector2>());
 		}
-
+		public void OnMousePosition(InputValue value)
+		{
+			MousePosition(value.Get<Vector2>());
+		}
 		public void OnLook(InputValue value)
 		{
 			if(cursorInputForLook)
 			{
 				LookInput(value.Get<Vector2>());
 			}
+		}
+
+		public void OnSettings(InputValue value)
+		{
+			SettingsInput(value.isPressed);
 		}
 
 		public void OnJump(InputValue value)
@@ -49,11 +60,23 @@ namespace StarterAssets
 		public void MoveInput(Vector2 newMoveDirection)
 		{
 			move = newMoveDirection;
-		} 
-
+		}
+		public void MousePosition(Vector2 newMousePosition)
+		{
+			mousePosition = newMousePosition;
+		}
 		public void LookInput(Vector2 newLookDirection)
 		{
 			look = newLookDirection;
+		}
+
+		public void SettingsInput(bool newSettingsState)
+		{
+			InputAction value = new InputAction();
+			if (value.ReadValue<float>() < 0.5)
+				settings = !settings;
+			else if (value.ReadValue<float>() < 0.5)
+				settings = true;
 		}
 
 		public void JumpInput(bool newJumpState)

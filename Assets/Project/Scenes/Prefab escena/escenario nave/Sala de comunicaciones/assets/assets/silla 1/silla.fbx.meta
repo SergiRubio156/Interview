@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 8d55e4895e1745d4ba73a28da4026129
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_BaseColor.1001
+    second: {fileID: 2800000, guid: 91dc9cbef19966e4baf002e5a277ae70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Emissive.1001
+    second: {fileID: 2800000, guid: 230eea0ef3897774486ba2da36ddf827, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Metallic.1001
+    second: {fileID: 2800000, guid: 77f5c62c43ab446428e70a0e486acfb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Normal.1001
+    second: {fileID: 2800000, guid: dda6abb9ac9eef24e84368e684706638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 arms_Roughness.1001
+    second: {fileID: 2800000, guid: f5f87c2622eb3a44fa57ef51b7d4f4b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_BaseColor.1001
+    second: {fileID: 2800000, guid: 4cc41634d8007ef46ad303d7c2885f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Emissive.1001
+    second: {fileID: 2800000, guid: 34af24070fdedac4fb7f452d935f463f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Metallic.1001
+    second: {fileID: 2800000, guid: a8cb79596f1550e469c2f4fa5340b26b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Normal.1001
+    second: {fileID: 2800000, guid: 33e1062f1ba52e0478c30827b13e4ae1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 back rest_Roughness.1001
+    second: {fileID: 2800000, guid: 191b3a373d626944b99b83f4d195e05d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_BaseColor.1001
+    second: {fileID: 2800000, guid: 8ec33fa90f802bc44b945562f091cf5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Emissive.1001
+    second: {fileID: 2800000, guid: fd200c1f6e1f1de4b8bc6806ec91e4b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Metallic.1001
+    second: {fileID: 2800000, guid: b6e90339b2a4a534ea1c2bac54370dfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Normal.1001
+    second: {fileID: 2800000, guid: 732b5ee1101779745b8cf390867f8aea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sci-fi_single_chair_sci-fi chair 3 base_Roughness.1001
+    second: {fileID: 2800000, guid: 1c480cb67637c0a408b081ecc83075a6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
